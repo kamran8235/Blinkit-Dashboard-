@@ -41,16 +41,6 @@ Recommendations
 
 Prioritize Supermarket Type1 in future outlet expansion, given its outsized revenue contribution relative to other formats at similar rating levels. Increase investment in Tier 3 city outlets, where demand is proving strong relative to Tier 1/2 — a potentially underexploited growth segment. Treat rating scores as a baseline, not a differentiator, in outlet performance reviews — since satisfaction is uniformly high, performance conversations should focus on format and category mix rather than service-quality gaps. Re-evaluate the plateaued growth phase (2019–2022) to determine whether it reflects market saturation or reduced expansion investment, before setting next-cycle outlet targets.
 
-Repository Structure
-
-Blinkit-Dashboard/
-│
-├── BLINKIT.pbix
-├── README.md
-├── Dashboard.png
-├── data/
-    └── BlinkIT Grocery Data.xlsx
-
 
 How to View
 
